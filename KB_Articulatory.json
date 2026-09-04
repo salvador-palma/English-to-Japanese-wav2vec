@@ -1,0 +1,505 @@
+{
+    "/b/": {
+        "type": "consonant",
+        "place": "bilabial",
+        "manner": "stop",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/p/": {
+        "type": "consonant",
+        "place": "bilabial",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɸ/": {
+        "type": "consonant",
+        "place": "bilabial",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/m/": {
+        "type": "consonant",
+        "place": "bilabial",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/d/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "stop",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/t/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/z/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "fricative",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/s/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ʣ/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "affricate",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ʦ/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "affricate",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɾ/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "flap",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/n/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ʑ/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "fricative",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɕ/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ʃ/": {
+        "type": "consonant",
+        "place": "post-alveolar",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɟʑ/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "affricate",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/cɕ/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "affricate",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ȵ/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ç/": {
+        "type": "consonant",
+        "place": "palatal",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/j/": {
+        "type": "consonant",
+        "place": "palatal",
+        "manner": "approximant",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɲ/": {
+        "type": "consonant",
+        "place": "palatal",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/g/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "stop",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/k/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɰ/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "approximant",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ŋ/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɴ/": {
+        "type": "consonant",
+        "place": "uvular",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/h/": {
+        "type": "consonant",
+        "place": "glottal",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/i/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "front",
+        "rounded": false,
+        "voiced": true,
+        "long": false
+    },
+    "/u/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "back",
+        "rounded": true,
+        "voiced": true
+    },
+    "/ɯ/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "back",
+        "rounded": false,
+        "voiced": true,
+        "long": false
+    },
+    "/e/": {
+        "type": "vowel",
+        "height": "mid",
+        "backness": "front",
+        "rounded": false,
+        "voiced": true,
+        "long": false
+    },
+    "/o/": {
+        "type": "vowel",
+        "height": "mid",
+        "backness": "back",
+        "rounded": true,
+        "voiced": true,
+        "long": false
+    },
+    "/a/": {
+        "type": "vowel",
+        "height": "open",
+        "backness": "central",
+        "rounded": false,
+        "voiced": true,
+        "long": false
+    },
+    "/pː/": {
+        "type": "consonant",
+        "place": "bilabial",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/mː/": {
+        "type": "consonant",
+        "place": "bilabial",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/tː/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/sː/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/nː/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "nasal",
+        "voiced": true,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/ɕː/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/cɕː/": {
+        "type": "consonant",
+        "place": "alveolo-palatal",
+        "manner": "affricate",
+        "voiced": false,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/kː/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": true,
+        "palatalized": false
+    },
+    "/gʲ/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "stop",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": true
+    },
+    "/kʲ/": {
+        "type": "consonant",
+        "place": "velar",
+        "manner": "stop",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": true
+    },
+    "/ɯ̥/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "back",
+        "rounded": false,
+        "voiced": false,
+        "long": false
+    },
+    "/i̥/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "front",
+        "rounded": false,
+        "voiced": false,
+        "long": false
+    },
+    "/iː/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "front",
+        "rounded": false,
+        "voiced": true,
+        "long": true
+    },
+    "/ɯː/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "back",
+        "rounded": false,
+        "voiced": true,
+        "long": true
+    },
+    "/eː/": {
+        "type": "vowel",
+        "height": "mid",
+        "backness": "front",
+        "rounded": false,
+        "voiced": true,
+        "long": true
+    },
+    "/oː/": {
+        "type": "vowel",
+        "height": "mid",
+        "backness": "back",
+        "rounded": true,
+        "voiced": true,
+        "long": true
+    },
+    "/aː/": {
+        "type": "vowel",
+        "height": "open",
+        "backness": "central",
+        "rounded": false,
+        "voiced": true,
+        "long": true
+    },
+    "/r/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "approximant",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/v/": {
+        "type": "consonant",
+        "place": "labiodental",
+        "manner": "fricative",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/f/": {
+        "type": "consonant",
+        "place": "labiodental",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ð/": {
+        "type": "consonant",
+        "place": "dental",
+        "manner": "fricative",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/θ/": {
+        "type": "consonant",
+        "place": "dental",
+        "manner": "fricative",
+        "voiced": false,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/l/": {
+        "type": "consonant",
+        "place": "alveolar",
+        "manner": "lateral-approximant",
+        "voiced": true,
+        "geminate": false,
+        "palatalized": false
+    },
+    "/ɪ/": {
+        "type": "vowel",
+        "height": "near-close",
+        "backness": "near-front",
+        "rounded": false,
+        "voiced": true
+    },
+    "/ɛ/": {
+        "type": "vowel",
+        "height": "open-mid",
+        "backness": "front",
+        "rounded": false,
+        "voiced": true
+    },
+    "/æ/": {
+        "type": "vowel",
+        "height": "near-open",
+        "backness": "front",
+        "rounded": false,
+        "voiced": true
+    },
+    "/ə/": {
+        "type": "vowel",
+        "height": "mid",
+        "backness": "central",
+        "rounded": false,
+        "voiced": true
+    },
+    "/ʌ/": {
+        "type": "vowel",
+        "height": "open-mid",
+        "backness": "back",
+        "rounded": false,
+        "voiced": true
+    },
+    "/uː/": {
+        "type": "vowel",
+        "height": "close",
+        "backness": "back",
+        "rounded": true,
+        "voiced": true
+    },
+    "/ʊ/": {
+        "type": "vowel",
+        "height": "near-close",
+        "backness": "near-back",
+        "rounded": true,
+        "voiced": true
+    },
+    "/ɔ/": {
+        "type": "vowel",
+        "height": "open-mid",
+        "backness": "back",
+        "rounded": true,
+        "voiced": true
+    }
+}

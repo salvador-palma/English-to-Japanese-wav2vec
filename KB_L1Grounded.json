@@ -1,0 +1,199 @@
+{
+    "/b/": {
+        "anchor": "Carbon",
+        "reasoning": "The 'b' in Carbon is a good equivalent of the Japanese 'b' sound"
+    },
+    "/p/": {
+        "anchor": "Pen",
+        "reasoning": "The 'p' in Pen is a good equivalent of the Japanese 'p' sound"
+    },
+    "/ɸ/": {
+        "anchor": "Food",
+        "reasoning": "Saying 'Food' without rounding the lips gives a good approximation of the Japanese 'Fu' ふ sound"
+    },
+    "/m/": {
+        "anchor": "Mother",
+        "reasoning": "The 'm' in Mother is a good equivalent of the Japanese 'm' sound"
+    },
+    "/d/": {
+        "anchor": "Sad",
+        "reasoning": "The 'd' in Sad is a good equivalent of the Japanese 'd' sound"
+    },
+    "/t/": {
+        "anchor": "Tiny",
+        "reasoning": "The 't' in Tiny is a good equivalent of the Japanese 't' sound"
+    },
+    "/z/": {
+        "anchor": "Zoo",
+        "reasoning": "The 'z' in Zoo is a good equivalent of the Japanese 'z' sound"
+    },
+    "/s/": {
+        "anchor": "Sun",
+        "reasoning": "The 's' in Sun is a good equivalent of the Japanese 's' sound"
+    },
+    "/ʣ/": {
+        "anchor": "",
+        "reasoning": ""
+    },
+    "/ʦ/": {
+        "anchor": "Tsunami",
+        "reasoning": "The 'Ts' in borrowed word Tsunami can be used to represent the 'Tsu' つ sound in Japanese"
+    },
+    "/ɾ/": {
+        "anchor": "Steady",
+        "reasoning": "The Japanese r sound is different from the English one, in that it's just a quick tap of the tongue, like the 'd' in Steady when said quickly"
+    },
+    "/n/": {
+        "anchor": "Sun",
+        "reasoning": "The 'n' in Sun is a good equivalent of the Japanese 'n' sound"
+    },
+    "/ʑ/": {
+        "anchor": "Vision",
+        "reasoning": "The 's' in Vision is a good equivalent of the Japanese 'z' sound"
+    },
+    "/ɕ/": {
+        "anchor": "Shine; Sheep",
+        "reasoning": "The 'sh' in Shine or Sheep is a good equivalent of the Japanese し sound"
+    },
+    "/ɟʑ/": {
+        "anchor": "Judge",
+        "reasoning": "The 'J' in Judge is a good approximation of the 'J' in the Japanese じ"
+    },
+    "/cɕ/": {
+        "anchor": "Church",
+        "reasoning": "The 'Ch' in Church is a good approximation of the 'Ch' in the Japanese ち"
+    },
+    "/ȵ/": {
+        "anchor": "",
+        "reasoning": ""
+    },
+    "/ç/": {
+        "anchor": "Hue; Huge",
+        "reasoning": "The 'H' in Hue is a good approximation of the 'Hi' in the Japanese ひ"
+    },
+    "/j/": {
+        "anchor": "Yet",
+        "reasoning": "The 'y' in Yet is a good equivalent of the Japanese 'y' sound"
+    },
+    "/ɲ/": {
+        "anchor": "Canyon",
+        "reasoning": "The 'ny' in Canyon is a good approximation of the 'Ny' in the Japanese に"
+    },
+    "/g/": {
+        "anchor": "Agree",
+        "reasoning": "The 'g' in Agree is a good equivalent of the Japanese 'g' sound"
+    },
+    "/k/": {
+        "anchor": "Cat",
+        "reasoning": "The 'c' in Cat is a good equivalent of the Japanese 'k' sound"
+    },
+    "/ɰ/": {
+        "anchor": "Wish",
+        "reasoning": "The 'w' in Wish is a good equivalent of the Japanese 'w' sound"
+    },
+    "/ŋ/": {
+        "anchor": "Sing",
+        "reasoning": "The 'ng' in Sing is a good equivalent of the Japanese 'n' sound that appears before 'k' or 'g'"
+    },
+    "/ɴ/": {
+        "anchor": "Sing",
+        "reasoning": "The 'ng' in Sing can be a good approximation of the Japanese /ɴ/ sound if said in a 'darker' tone, since the tongue will be further back in the mouth"
+    },
+    "/h/": {
+        "anchor": "Heart",
+        "reasoning": "The 'h' in Heart is a good equivalent of the Japanese 'h' sound"
+    },
+    "/i/": {
+        "anchor": "Pete",
+        "reasoning": "The first 'e' in Pete is a good equivalent of the Japanese 'i' sound"
+    },
+    "/ɯ/": {
+        "anchor": "Pool",
+        "reasoning": "In Japanese, the 'u' sound is not rounded, the same as the word 'Pool' if said without rounding the lips"
+    },
+    "/e/": {
+        "anchor": "Late",
+        "reasoning": "The first sound from the 'a' diphtong in Late is a good equivalent of the Japanese 'e' sound"
+    },
+    "/o/": {
+        "anchor": "Poke",
+        "reasoning": "The first sound from the 'o' diphtong in Poke is a good equivalent of the Japanese 'o' sound"
+    },
+    "/a/": {
+        "anchor": "Father",
+        "reasoning": "The 'a' in Father is a good equivalent of the Japanese 'a' sound"
+    },
+    "/pː/": {
+        "anchor": "Top Prize",
+        "reasoning": "The extended 'P' sound in 'Top Prize' is a good approximation of the Japanese long 'P' sound"
+    },
+    "/mː/": {
+        "anchor": "Immeasured",
+        "reasoning": "The extended 'M' sound in 'Immeasured' is a good approximation of the Japanese long 'M' sound"
+    },
+    "/tː/": {
+        "anchor": "Boat Tour",
+        "reasoning": "The extended 'T' sound in 'Boat Tour' is a good approximation of the Japanese long 'T' sound"
+    },
+    "/sː/": {
+        "anchor": "Misspell",
+        "reasoning": "The extended 'S' sound in 'Misspell' is a good approximation of the Japanese long 'S' sound"
+    },
+    "/nː/": {
+        "anchor": "Unnamed",
+        "reasoning": "The extended 'N' sound in 'Unnamed' is a good approximation of the Japanese long 'N' sound"
+    },
+    "/ɕː/": {
+        "anchor": "Fish Shop",
+        "reasoning": "The extended 'ɕ' sound in 'Fish Shop' is a good approximation of the Japanese long 'ɕ' sound"
+    },
+    "/cɕː/": {
+        "anchor": "Much Cheaper",
+        "reasoning": "The extended 'cɕ' sound in 'Much Cheaper' is a good approximation of the Japanese long 'cɕ' sound"
+    },
+    "/kː/": {
+        "anchor": "Black Cab",
+        "reasoning": "The extended 'K' sound in 'Black Cab' is a good approximation of the Japanese long 'K' sound"
+    },
+    "/gʲ/": {
+        "anchor": "Argue",
+        "reasoning": "The 'G' in Argue is a good physical approximation of the palatalized 'G' sound in Japanese"
+    },
+    "/kʲ/": {
+        "anchor": "Cute",
+        "reasoning": "The 'C' in Cute is a good physical approximation of the palatalized 'K' sound in Japanese"
+    },
+    "/ɯ̥/": {
+        "anchor": "Blanketing; Multiple; Carpeting",
+        "reasoning": "The way the 'e' in 'Blanketing', the 'i' in 'Multiple', and the 'e' in 'Carpeting' are devoiced in fast speech is the same mechanism as the Japanese devoiced 'u' sound"
+    },
+    "/i̥/": {
+        "anchor": "Blanketing; Multiple; Carpeting",
+        "reasoning": "The way the 'e' in 'Blanketing', the 'i' in 'Multiple', and the 'e' in 'Carpeting' are devoiced in fast speech is the same mechanism as the Japanese devoiced 'i' sound"
+    },
+
+
+    
+
+
+    "/iː/": {
+        "anchor": "Pete (stretch: 'Peete')",
+        "reasoning": "Take the 'ee' in 'Pete' and stretch it — 'Peete' — for two full beats, like you are calling out the word. Nothing about the vowel changes, only how long you hold it. That doubled, steady hold is the Japanese long い."
+    },
+    "/ɯː/": {
+        "anchor": "Pool (stretch: 'Poool')",
+    "reasoning": "Take the 'oo' in 'Pool' and stretch it — 'Poool' — for two full beats, like you are calling out the word. Keep your lips relaxed and unrounded throughout, exactly as with the short う. That stretched, unrounded hold is the Japanese long う."
+    },
+    "/eː/": {
+        "anchor": "Late (stretch: 'Laate')",
+        "reasoning": "Take the beggining vowel in 'Late' and stretch it — 'Laate' — for two full beats, like you are calling out the word. Japanese long え is a steady vowel, so freeze on that first position and sustain it."
+    },
+    "/oː/": {
+        "anchor": "Poke (stretch: 'Pooke')",
+        "reasoning": "Take the beggining vowel in 'Poke' and stretch it — 'Pooke' — for two full beats, like you are calling out the word. Japanese long お is a steady vowel, so freeze on that first position and sustain it."
+    },
+    "/aː/": {
+        "anchor": "Father (stretch: 'Faather')",
+        "reasoning": "Take the 'ah' in 'Father' and stretch it — 'Faather' — for two full beats, like you are calling out the word. Nothing about the vowel changes, only how long you hold it. That doubled, steady hold is the Japanese long あ."
+    }
+}
